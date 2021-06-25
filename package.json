@@ -1,22 +1,22 @@
 {
-  "name": "parcel-project-template",
+  "name": "test-repo",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://Rostyslav-Zahorulko.github.io/test-repo",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /test-repo/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Rostyslav-Zahorulko/test-repo.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Rostyslav Zahorulko <rostyslav.zagorulko@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Rostyslav-Zahorulko/test-repo/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
